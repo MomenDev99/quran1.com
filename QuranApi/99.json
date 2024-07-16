@@ -1,0 +1,39 @@
+{
+    "surahName": "Az-Zalzala",
+    "surahNameArabic": "الزلزلة",
+    "surahNameArabicLong": "سورة الزلزلة",
+    "surahNameTranslation": "The Earthquake",
+    "revelationPlace": "Madina",
+    "totalAyah": 8,
+    "surahNo": 99,
+    "english": [
+        "When the earth is shaken ˹in˺ its ultimate quaking",
+        "and when the earth throws out ˹all˺ its contents",
+        "and humanity cries, “What is wrong with it?”—",
+        "on that Day the earth will recount everything",
+        "having been inspired by your Lord ˹to do so˺.",
+        "On that Day people will proceed in separate groups to be shown ˹the consequences of˺ their deeds.",
+        "So whoever does an atom’s weight of good will see it.",
+        "And whoever does an atom’s weight of evil will see it."
+    ],
+    "arabic1": [
+        " إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+        "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+        "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+        "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+        "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+        "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+        "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+        "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ"
+    ],
+    "arabic2": [
+        "اذا زلزلت الارض زلزالها",
+        "واخرجت الارض اثقالها",
+        "وقال الانسان ما لها",
+        "يومئذ تحدث اخبارها",
+        "بان ربك اوحى لها",
+        "يومئذ يصدر الناس اشتاتا ليروا اعمالهم",
+        "فمن يعمل مثقال ذرة خيرا يره",
+        "ومن يعمل مثقال ذرة شرا يره"
+    ]
+}

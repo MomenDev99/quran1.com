@@ -1,0 +1,48 @@
+{
+    "surahName": "Al-Aadiyaat",
+    "surahNameArabic": "العاديات",
+    "surahNameArabicLong": "سورة العاديات",
+    "surahNameTranslation": "The Chargers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 100,
+    "english": [
+        "’ By the galloping, panting horses",
+        "striking sparks of fire ˹with their hoofs˺",
+        "launching raids at dawn",
+        "stirring up ˹clouds of˺ dust",
+        "and penetrating into the heart of enemy lines!",
+        "Surely humankind is ungrateful to their Lord—",
+        "and they certainly attest to this—",
+        "and they are truly extreme in their love of ˹worldly˺ gains.",
+        "Do they not know that when the contents of the graves will be spilled out",
+        "and the secrets of the hearts will be laid bare—",
+        "surely their Lord is All-Aware of them on that Day."
+    ],
+    "arabic1": [
+        " وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+        "فَٱلْمُورِيَـٰتِ قَدْحًا",
+        "فَٱلْمُغِيرَٰتِ صُبْحًا",
+        "فَأَثَرْنَ بِهِۦ نَقْعًا",
+        "فَوَسَطْنَ بِهِۦ جَمْعًا",
+        "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+        "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+        "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+        "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+        "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+        "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ"
+    ],
+    "arabic2": [
+        "والعاديات ضبحا",
+        "فالموريات قدحا",
+        "فالمغيرات صبحا",
+        "فاثرن به نقعا",
+        "فوسطن به جمعا",
+        "ان الانسان لربه لكنود",
+        "وانه على ذلك لشهيد",
+        "وانه لحب الخير لشديد",
+        "افلا يعلم اذا بعثر ما في القبور",
+        "وحصل ما في الصدور",
+        "ان ربهم بهم يومئذ لخبير"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "surahName": "Quraish",
+    "surahNameArabic": "قريش",
+    "surahNameArabicLong": "سورة قريش",
+    "surahNameTranslation": "Quraysh",
+    "revelationPlace": "Mecca",
+    "totalAyah": 4,
+    "surahNo": 106,
+    "english": [
+        "˹At least˺ for ˹the favour of˺ making Quraysh habitually secure—",
+        "secure in their trading caravan ˹to Yemen˺ in the winter and ˹Syria˺ in the summer—",
+        "let them worship the Lord of this ˹Sacred˺ House",
+        "Who has fed them against hunger and made them secure against fear."
+    ],
+    "arabic1": [
+        " لِإِيلَـٰفِ قُرَيْشٍ",
+        "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+        "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+        "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ"
+    ],
+    "arabic2": [
+        "لايلاف قريش",
+        "ايلافهم رحلة الشتاء والصيف",
+        "فليعبدوا رب هذا البيت",
+        "الذي اطعمهم من جوع وامنهم من خوف"
+    ]
+}

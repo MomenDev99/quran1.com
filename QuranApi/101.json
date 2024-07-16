@@ -1,0 +1,48 @@
+{
+    "surahName": "Al-Qaari'a",
+    "surahNameArabic": "القارعة",
+    "surahNameArabicLong": "سورة القارعة",
+    "surahNameTranslation": "The Calamity",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 101,
+    "english": [
+        "The Striking Disaster!",
+        "What is the Striking Disaster?",
+        "And what will make you realize what the Striking Disaster is?",
+        "˹It is˺ the Day people will be like scattered moths",
+        "and the mountains will be like carded wool.",
+        "So as for those whose scale is heavy ˹with good deeds˺",
+        "they will be in a life of bliss.",
+        "And as for those whose scale is light",
+        "their home will be the abyss.",
+        "And what will make you realize what that is?",
+        "˹It is˺ a scorching Fire."
+    ],
+    "arabic1": [
+        " ٱلْقَارِعَةُ",
+        "مَا ٱلْقَارِعَةُ",
+        "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+        "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+        "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+        "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+        "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+        "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+        "فَأُمُّهُۥ هَاوِيَةٌ",
+        "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+        "نَارٌ حَامِيَةٌۢ"
+    ],
+    "arabic2": [
+        "القارعة",
+        "ما القارعة",
+        "وما ادراك ما القارعة",
+        "يوم يكون الناس كالفراش المبثوث",
+        "وتكون الجبال كالعهن المنفوش",
+        "فاما من ثقلت موازينه",
+        "فهو في عيشة راضية",
+        "واما من خفت موازينه",
+        "فامه هاوية",
+        "وما ادراك ما هيه",
+        "نار حامية"
+    ]
+}

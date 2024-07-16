@@ -1,0 +1,24 @@
+{
+    "surahName": "An-Nasr",
+    "surahNameArabic": "النصر",
+    "surahNameArabicLong": "سورة النصر",
+    "surahNameTranslation": "Divine Support",
+    "revelationPlace": "Madina",
+    "totalAyah": 3,
+    "surahNo": 110,
+    "english": [
+        "When Allah’s ˹ultimate˺ help comes and the victory ˹over Mecca is achieved˺",
+        "and you ˹O Prophet˺ see the people embracing Allah’s Way in crowds",
+        "then glorify the praises of your Lord and seek His forgiveness, for certainly He is ever Accepting of Repentance."
+    ],
+    "arabic1": [
+        " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+        "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+        "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا"
+    ],
+    "arabic2": [
+        "اذا جاء نصر الله والفتح",
+        "ورايت الناس يدخلون في دين الله افواجا",
+        "فسبح بحمد ربك واستغفره انه كان توابا"
+    ]
+}

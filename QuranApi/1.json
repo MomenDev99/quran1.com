@@ -1,0 +1,36 @@
+{
+    "surahName": "Al-Faatiha",
+    "surahNameArabic": "الفاتحة",
+    "surahNameArabicLong": "سُورَةُ ٱلْفَاتِحَةِ",
+    "surahNameTranslation": "The Opening",
+    "revelationPlace": "Mecca",
+    "totalAyah": 7,
+    "surahNo": 1,
+    "english": [
+        "In the Name of Allah—the Most Compassionate, Most Merciful.",
+        "All praise is for Allah—Lord of all worlds",
+        "the Most Compassionate, Most Merciful",
+        "Master of the Day of Judgment.",
+        "You ˹alone˺ we worship and You ˹alone˺ we ask for help.",
+        "Guide us along the Straight Path",
+        "the Path of those You have blessed—not those You are displeased with, or those who are astray."
+    ],
+    "arabic1": [
+        "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+        "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+        "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+        "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+        "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ"
+    ],
+    "arabic2": [
+        "بسم الله الرحمن الرحيم",
+        "الحمد لله رب العالمين",
+        "الرحمن الرحيم",
+        "مالك يوم الدين",
+        "اياك نعبد واياك نستعين",
+        "اهدنا الصراط المستقيم",
+        "صراط الذين انعمت عليهم غير المغضوب عليهم ولا الضالين"
+    ]
+}

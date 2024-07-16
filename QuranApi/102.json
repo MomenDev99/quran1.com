@@ -1,0 +1,39 @@
+{
+    "surahName": "At-Takaathur",
+    "surahNameArabic": "التكاثر",
+    "surahNameArabicLong": "سورة التكاثر",
+    "surahNameTranslation": "Competition",
+    "revelationPlace": "Mecca",
+    "totalAyah": 8,
+    "surahNo": 102,
+    "english": [
+        "Competition for more ˹gains˺ diverts you ˹from Allah˺",
+        "until you end up in ˹your˺ graves.",
+        "But no! You will soon come to know.",
+        "Again, no! You will soon come to know.",
+        "Indeed, if you were to know ˹your fate˺ with certainty, ˹you would have acted differently˺.",
+        "˹But˺ you will surely see the Hellfire.",
+        "Again, you will surely see it with the eye of certainty.",
+        "Then, on that Day, you will definitely be questioned about ˹your worldly˺ pleasures."
+    ],
+    "arabic1": [
+        " أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+        "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+        "كَلَّا سَوْفَ تَعْلَمُونَ",
+        "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+        "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+        "لَتَرَوُنَّ ٱلْجَحِيمَ",
+        "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+        "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ"
+    ],
+    "arabic2": [
+        "الهاكم التكاثر",
+        "حتى زرتم المقابر",
+        "كلا سوف تعلمون",
+        "ثم كلا سوف تعلمون",
+        "كلا لو تعلمون علم اليقين",
+        "لترون الجحيم",
+        "ثم لترونها عين اليقين",
+        "ثم لتسالن يومئذ عن النعيم"
+    ]
+}

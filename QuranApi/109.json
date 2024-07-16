@@ -1,0 +1,33 @@
+{
+    "surahName": "Al-Kaafiroon",
+    "surahNameArabic": "الكافرون",
+    "surahNameArabicLong": "سورة الكافرون",
+    "surahNameTranslation": "The Disbelievers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 6,
+    "surahNo": 109,
+    "english": [
+        "Say, ˹O Prophet,˺ “O you disbelievers!",
+        "I do not worship what you worship",
+        "nor do you worship what I worship.",
+        "I will never worship what you worship",
+        "nor will you ever worship what I worship.",
+        "You have your way, and I have my Way.”"
+    ],
+    "arabic1": [
+        " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+        "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+        "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+        "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+        "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+        "لَكُمْ دِينُكُمْ وَلِىَ دِينِ"
+    ],
+    "arabic2": [
+        "قل يا ايها الكافرون",
+        "لا اعبد ما تعبدون",
+        "ولا انتم عابدون ما اعبد",
+        "ولا انا عابد ما عبدتم",
+        "ولا انتم عابدون ما اعبد",
+        "لكم دينكم ولي دين"
+    ]
+}

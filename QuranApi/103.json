@@ -1,0 +1,24 @@
+{
+    "surahName": "Al-Asr",
+    "surahNameArabic": "العصر",
+    "surahNameArabicLong": "سورة العصر",
+    "surahNameTranslation": "The Declining Day, Epoch",
+    "revelationPlace": "Mecca",
+    "totalAyah": 3,
+    "surahNo": 103,
+    "english": [
+        "By the ˹passage of˺ time!",
+        "Surely humanity is in ˹grave˺ loss",
+        "except those who have faith, do good, and urge each other to the truth, and urge each other to perseverance."
+    ],
+    "arabic1": [
+        " وَٱلْعَصْرِ",
+        "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+        "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ"
+    ],
+    "arabic2": [
+        "والعصر",
+        "ان الانسان لفي خسر",
+        "الا الذين امنوا وعملوا الصالحات وتواصوا بالحق وتواصوا بالصبر"
+    ]
+}
