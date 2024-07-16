@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quran</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+
+<body>
+  <div class="searchDIV">
+    <button type="submit" onclick="RunBySearchMode()" id="searchBTN">🔎</button>
+    <input type="text" id="input" placeholder="...اكتب اسم السورة">
+    <button id="searchModeBTN" onclick="SearchMode()"></button>
+  </div>
+  <div id="optionsDIV">
+    
+    <div id="tashkelDIV">
+       <input type="checkbox" class="checkbox" id="tashkel" checked>
+       <label for="tashkel">tashkel</label>
+    </div>
+    
+    <div id="ayahDIV">
+      <input type="number" id="searchAyah">
+      <label for="searchAyah">No. of Ayah</label>
+      
+    </div>
+    
+    <div id="darkModeDIV">
+      <input type="checkbox" id="darkMode" class="checkbox">
+       <label for="darkMode">Dark Mode</label>
+    </div>
+    
+    
+  </div>
+  
+  <div id="surahDIV">
+    هنا الايات
+  </div>
+  
+  
+  <div id="ayahSearchDIV">
+    <button type="submit" id="navUp"></button>
+    <button type="submit" id="navDown"></button>
+  </div>
+  
+  
+
+  <script src="index.js">
+  </script>
+</body>
+
+</html>
